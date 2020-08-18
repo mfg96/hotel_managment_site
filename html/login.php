@@ -1,6 +1,6 @@
 <?php // login.php
     $hn = 'localhost'; //hostname
-    $db = 'sohailm_hotel'; //database
-    $un = 'sohailm_db'; //username
-   $pw = 'sohailm_db'; //password
+    $db = 'ur_db_name'; //database
+    $un = 'ur_uname'; //username
+   $pw = 'ur_paswd'; //password
 ?>
